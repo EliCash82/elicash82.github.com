@@ -1,14 +1,13 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to my blog!"
 date:   2013-11-24 20:33:20
 categories: jekyll update
 ---
 
-You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
-To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
+This is my first Jekyll blog, as I'm wrapping up my MA I want to be ready with a nice, minimal/lightweight resume page.  It seemed to me Jekyll was the way to go, and I'm definitely enjoying it more than, say, Wordpress.
 
-Jekyll also offers powerful support for code snippets:
+The following code is left on this introductory post for personal reference:
 
 {% highlight ruby %}
 def print_hi(name)
