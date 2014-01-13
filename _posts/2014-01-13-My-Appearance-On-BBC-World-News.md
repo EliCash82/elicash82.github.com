@@ -5,7 +5,7 @@ date:   2014-01-13 12:14:00
 categories: Video
 ---
 
-[Originally Aired March 13, 2012][bbc] | While working for OnDemand Books at Brooklyn Public Library I was interviewed for BBC World News. 
+[Originally Aired March 13, 2012][bbc] | While working for On Demand Books at Brooklyn Public Library I was interviewed for BBC World News. 
 
 [WATCH VIDEO][bbc]
 
