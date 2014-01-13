@@ -66,9 +66,9 @@ h3 {
 h1 { margin-bottom: 1em; }
 p { margin: 1em 0; }
 
-a         { color: #4bb8df; }
-a:hover   { color: #a581ff; }
-a:visited { color: #96d32a; }
+a         { color: #f68941; }
+a:hover   { color: #a75d2c; }
+a:visited { color: #527281; }
 
 /*****************************************************************************/
 /*
@@ -85,7 +85,7 @@ a:visited { color: #96d32a; }
 }
 
 .posts span {
-  color: #e6db64;
+  color: #f68941;
   font-family: Monaco, "Courier New", monospace;
   font-size: 80%;
 }
@@ -152,7 +152,7 @@ a:visited { color: #96d32a; }
 }
 
 .footer .contact a {
-  color: #a581ff;
+  color: #527281;
 }
 
 .footer .rss {
