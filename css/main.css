@@ -4,7 +4,38 @@
 /*
 /*****************************************************************************/
 
+/*
+Color Sheet:
+--------------
+Sublime_Text:
+background/black: #272822
+white: #f4ebd1
+magenta: #e02767
+neon green: #96d32a
+canary yellow: #e6db64
+blue: #4bb8df;
+purple: #a581ff;
+
+font: consolas;
+---------------
+Penguin/Paris Review style theme
+background / light gray almost white: #ececec
+orange: #f68941
+dark orange: #a75d2c
+black: #1f1f1f
+dark/pale blue: #527281 ;
+
+font: Big Caslon and Helvetica;
+
+
+*/
+
 /* Global Reset */
+@font-face {
+  font-family: Caslon;
+  src: url('{% asset_path caslon.ttf %}') format('truetype');
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -13,21 +44,31 @@
 html, body { height: 100%; }
 
 body {
-  background-color: #FFF;
-  font: 13.34px Helvetica, Arial, sans-serif;
+  background-color: #ececec;
+  font: 13.34px Helvetica, sans-serif;
   font-size: small;
+  color: #1f1f1f;
   text-align: center;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  font-size: 100%; }
+h1, h3, h4, h5, h6 {
+  font-size: 120%; }
+
+h2 {
+  font-size: 150%;
+  text-decoration: underline;
+}
+
+h3 {
+  font-size: 150%;
+}  
 
 h1 { margin-bottom: 1em; }
 p { margin: 1em 0; }
 
-a         { color: #00a; }
-a:hover   { color: #000; }
-a:visited { color: #a0a; }
+a         { color: #4bb8df; }
+a:hover   { color: #a581ff; }
+a:visited { color: #96d32a; }
 
 /*****************************************************************************/
 /*
@@ -44,7 +85,7 @@ a:visited { color: #a0a; }
 }
 
 .posts span {
-  color: #aaa;
+  color: #e6db64;
   font-family: Monaco, "Courier New", monospace;
   font-size: 80%;
 }
@@ -64,30 +105,33 @@ a:visited { color: #a0a; }
 }
 
 .header a {
+  font-size: 120%;
   font-weight: bold;
   text-decoration: none;
 }
 
 .title {
+  font-size: 250%;
+  font-family: 'Playfair Display SC', serif;
   display: inline-block;
   margin-bottom: 2em;
 }
 
 .title a {
-  color: #a00;
+  color: #1f1f1f;
 }
 
 .title a:hover {
-  color: #000;
+  color: #1f1f1f;
 }
 
 .header a.extra {
-  color: #aaa;
-  margin-left: 1em;
+  color: #f68941;
+  margin-left: 0em;
 }
 
 .header a.extra:hover {
-  color: #000;
+  color: #a75d2c;
 }
 
 .meta {
@@ -97,7 +141,7 @@ a:visited { color: #a0a; }
 .footer {
   font-size: 80%;
   color: #666;
-  border-top: 4px solid #eee;
+  border-top: 4px solid #666;
   margin-top: 2em;
   overflow: hidden;
 }
@@ -108,7 +152,7 @@ a:visited { color: #a0a; }
 }
 
 .footer .contact a {
-  color: #8085C1;
+  color: #a581ff;
 }
 
 .footer .rss {
