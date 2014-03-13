@@ -59,7 +59,7 @@ If you want something a little more recent that speaks directly to how these per
 
   * "Contextualist" approaches have long dominated academic studies of history of technology, but narratives of "great men" of science and technology remain popular, deriving their power both from widespread assumptions about new ideas emerging from particular men of genius as well as from the narrative appeal of biography. [(1531)][Rosenzweig]
 
-I could quote more, but the entire article holds a lot of important information in each of its sentences.  It is suggested reading, and I linked to the full article.  [Here, I'll do it again.]
+I could quote more, but the entire article holds a lot of important information in each of its sentences.  It is suggested reading, and I linked to the full article.  [Here, I'll do it again.][Rosenzweig]
 
 I need to wrap this rant up, and I hope at this juncture you get my point.  Just because certain powerful members of society have pushed us all to become infatuated with fetishized devices and using words like innovative, scientific, and technological as networked foreplay doesn't mean you have to let them jerk you off. 
 
