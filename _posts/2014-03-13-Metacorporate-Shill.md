@@ -3,6 +3,7 @@ layout: post
 title:  "The Metacorporate Shill"
 date:   2014-03-13 03:25:00
 categories: Technology
+draft: true
 ---
 
 NOTE: The following blog post was inspired by a talk I heard today.  I'm not in the trolling business, so I'm not going to name names here, but I'm writing this as a cathartic response that I felt uncomfortable unleashing openly on the offending party...
