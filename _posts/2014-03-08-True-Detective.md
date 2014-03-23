@@ -3,6 +3,7 @@ layout: post
 title:  "True Detective: The Animated Series"
 date:   2014-03-08 22:25:00
 categories: Video
+draft: true
 ---
 
 [This amazing video][dorkly] inspired me to waste time in Photoshop.  Really been enjoying True Detective on HBO, and the finale is tomorrow night. 
