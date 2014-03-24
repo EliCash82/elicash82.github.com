@@ -90,6 +90,19 @@ a:visited { color: #527281; }
   font-size: 80%;
 }
 
+.posts table {
+  list-style-type: none;
+  /*margin-bottom: 2em;*/
+  padding-top: 2em;
+  padding-bottom: 2em;
+  padding-right: 2em;
+  padding-left: 2em;
+}
+
+.posts td {
+  padding: 2em;
+}
+
 /*****************************************************************************/
 /*
 /* Site
