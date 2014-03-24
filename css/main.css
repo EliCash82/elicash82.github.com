@@ -99,15 +99,22 @@ a:visited { color: #527281; }
 .site {
   font-size: 115%;
   text-align: justify;
-  width: 42em;
+  width: 62em;
   margin: 3em auto 2em;
   line-height: 1.5em;
+}
+
+.header {
+  text-align: right;
+  border-bottom: 4px solid #666;
+  
 }
 
 .header a {
   font-size: 120%;
   font-weight: normal;
   text-decoration: none;
+
 }
 
 .title {
@@ -115,7 +122,8 @@ a:visited { color: #527281; }
   font-family: 'Playfair Display SC', serif;
   display: inline-block;
   font-weight: bold;
-  margin-bottom: 2em;
+  margin-bottom: 1em;
+
 }
 
 .title a {
