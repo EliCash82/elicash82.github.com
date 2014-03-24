@@ -106,14 +106,15 @@ a:visited { color: #527281; }
 
 .header a {
   font-size: 120%;
-  font-weight: bold;
+  font-weight: normal;
   text-decoration: none;
 }
 
 .title {
-  font-size: 250%;
+  font-size: 175%;
   font-family: 'Playfair Display SC', serif;
   display: inline-block;
+  font-weight: bold;
   margin-bottom: 2em;
 }
 
@@ -128,6 +129,10 @@ a:visited { color: #527281; }
 .header a.extra {
   color: #f68941;
   margin-left: 0em;
+}
+
+.header a.extra:visited {
+  color: #f68941;
 }
 
 .header a.extra:hover {
