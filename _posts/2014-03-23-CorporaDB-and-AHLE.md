@@ -5,7 +5,7 @@ date:   2014-03-23 12:14:00
 categories: Ruby
 ---
 
-Since I graduated at the beginning of January I've been working at Baruch College's Bernard L. Schwartz Communication Institute.  The job has been very interesting, and I've been able to experiment with a variety of software from Sinatra as a means of deploying documentation for [VOCAT][vocat] to Camtasia as a way to enhance filmed lectures.  I've even had the opportunity to make a few knick-knacks with a Makerbot 3D printer.
+TEST Since I graduated at the beginning of January I've been working at Baruch College's Bernard L. Schwartz Communication Institute.  The job has been very interesting, and I've been able to experiment with a variety of software from Sinatra as a means of deploying documentation for [VOCAT][vocat] to Camtasia as a way to enhance filmed lectures.  I've even had the opportunity to make a few knick-knacks with a Makerbot 3D printer.
 
 The major downside has been the fact that most of the higher-level Ruby coding being done for the project has been out of a shop in Portland, Oregon (I'm in NYC).  I've done a large amount of user-testing, making bug reports, guiding new users with initial use, but it hasn't been necessary for me to do a lot of coding.
 
